@@ -1,0 +1,1 @@
+Sample code using [test-kitchen](https://github.com/test-kitchen/test-kitchen) with [Docker](https://www.docker.com) for testing [Ansible](https://github.com/ansible) [roles](https://docs.ansible.com/ansible/2.7/user_guide/playbooks_reuse_roles.html).
